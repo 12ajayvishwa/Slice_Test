@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40084704726",
+    "project_id": "slice-17e55",
+    "storage_bucket": "slice-17e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40084704726:android:96dec673a6ea5c2ee76877",
+        "android_client_info": {
+          "package_name": "com.example.slice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7DeghBtyvauq5EyHkxursJv_tYckpm2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
